@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "nomeDoLivro": "O Punho Fechado no Fio da Navalha",
+        "editora": "Castanha Mecânica",
+        "lancamento": 2016,
+        "autoria": "Patricia Naia ",
+        "genero": "Poesia"
+        },
+        {
+        "id": 2,
+        "nomeDoLivro": "Quem tem medo do feminismo negro?",
+        "editora": "Companhia das Letras",
+        "autoria": "Djamila Ribeiro",
+        "lancamento": 2018,
+        "genero": "Biografia"
+        },
+        {
+        "id": 3,
+        "nomeDoLivro": "Olhos D'Agua",
+        "editora": "Pallas",
+        "lancamento": 2014,
+        "autoria": "Conceição Evaristo",
+        "genero": "Literatura Nacional"
+        },
+        {
+        "id": 4,
+        "nomeDoLivro": "Quarto de Despejo",
+        "editora": "Francisco Alves",
+        "lancamento": 1960,
+        "autoria": "Carolina de Jesus",
+        "genero": "Biografia"
+        },
+        {
+        "id": 5,
+        "nomeDoLivro": "Ursula",
+        "editora": "San Luiz",
+        "lancamento": 1859,
+        "autoria": "Maria Firmino dos Reis",
+        "genero": "Ficção"
+    }    
+    ]   
+// tets
+
